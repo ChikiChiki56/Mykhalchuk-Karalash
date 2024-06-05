@@ -89,10 +89,12 @@ body {
   }
   
   span {
+    float: left;
     display: inline-block;
+    margin-top: 15px;
     height: 50px;
     font-family: 'Suranna', serif;
-    font-size: 34px;
+    font-size: 20px;
   }
   
   .product-price-btn button {
@@ -118,3 +120,4 @@ body {
   .product-price-btn button:hover {
     background-color: #79b0a1;
   }
+  
